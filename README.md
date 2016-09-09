@@ -16,8 +16,8 @@ I. Minimum Functionality Requirements
    
  A. User Experience
  
-      At initial launch, user will be presented a configuration flow in which they will be prompted to select a unit of temperature
-    (C/F) and display the temperature readings according to the selection until it is changed again by the user via the settings.
+    At initial launch, user will be presented a configuration flow in which they will be prompted to select a unit of temperature
+    (C or F) and display the temperature readings according to the selection until it is changed again by the user via the settings.
     After this, the application will automatically detect any connected sensors and identify them to the user.  Once the sensors are 
     detected, the user will be prompted to label/name them.  After naming the sensor the user will will specify which sensor(s) will 
     be used for thermostat (if multiple, avg/RMS temp of selected sensors will be used).  Once the thermostat sensors have been 
