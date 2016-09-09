@@ -35,7 +35,7 @@ I. Minimum Functionality Requirements
     - ds18b20 temperature sensor, waterproof (4)
             <http://www.ebay.com/itm/350842338983?_trksid=p2060353.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT>
 
-   - Four Channel Relay Module DC 5V With Optocoupler (1) 
+    - Four Channel Relay Module DC 5V With Optocoupler (1) 
            <http://www.ebay.com/itm/142054220831?_trksid=p2060353.m1438.l2649&ssPageName=STRK%3AMEBIDX%3AIT> 
      
 
